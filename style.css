@@ -1,14 +1,14 @@
-.jeden{
-width: 100px;
-height: 100px;
-background-color: red;
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  }
 
-}
-.blue{
-width: 100px;
-height: 100px;
-background-color:blue;
-}
-.ik{
-    opacity: 0.2;
-}
+    .blue{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    }
+    .ik{
+        opacity: 0.2;
+    }
